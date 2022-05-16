@@ -1,0 +1,95 @@
+{
+  "apps": [
+    {
+      "id": 1,
+      "img": "app-ads1.png"
+    },
+    {
+      "id": 2,
+      "img": "app-ads2.png"
+    },
+    {
+      "id": 3,
+      "img": "app-ads3.png"
+    },
+    {
+      "id": 4,
+      "img": "app-ads4.png"
+    },
+    {
+      "id": 5,
+      "img": "app-ads5.png"
+    },
+    {
+      "id": 6,
+      "img": "app-ads6.png"
+    },
+    {
+      "id": 7,
+      "img": "app-ads7.png"
+    },
+    {
+      "id": 8,
+      "img": "app-ads8.png"
+    },
+    {
+      "id": 9,
+      "img": "app-ads9.png"
+    },
+    {
+      "id": 10,
+      "img": "app-ads10.png"
+    }
+
+  ],
+  "games": [
+    {
+      "id": 1,
+      "img": "game-ads1"
+    },
+    {
+      "id": 2,
+      "img": "game-ads2"
+    },
+    {
+      "id": 3,
+      "img": "game-ads3"
+    },
+    {
+      "id": 4,
+      "img": "game-ads4"
+    },
+    {
+      "id": 5,
+      "img": "game-ads5"
+    },
+    {
+      "id": 6,
+      "img": "game-ads6"
+    },
+    {
+      "id": 7,
+      "img": "game-ads7"
+    },
+    {
+      "id": 8,
+      "img": "game-ads8"
+    },
+    {
+      "id": 9,
+      "img": "game-ads9"
+    },
+    {
+      "id": 10,
+      "img": "game-ads10"
+    },
+    {
+      "id": 11,
+      "img": "game-ads11"
+    },
+    {
+      "id": 12,
+      "img": "game-ads12"
+    }
+  ]
+}

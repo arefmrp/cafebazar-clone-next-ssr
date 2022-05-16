@@ -1,0 +1,23 @@
+.notfound-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px 0;
+}
+.notfound-section div:nth-child(1) img{
+    height: 200px;
+    width: 200px;
+}
+.notfound-section div:nth-child(2){
+    color: #2a2e32;
+    font-family: iransans-bold;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0;
+}
+.notfound-section div:nth-child(3) a{
+    color: #6b6b6b;
+    font-family: iransans-light;
+    font-size: 18px;
+}

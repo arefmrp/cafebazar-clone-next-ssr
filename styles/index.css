@@ -1,0 +1,126 @@
+.description-box{
+    padding: 15px 15px;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #f1f1f1;
+    border-radius: 12px;
+    margin: 10px 0;
+    font-size: 16px;
+}
+.description-box span{
+    font-family:iransans-medium;
+    color: #212529;
+    font-weight: normal;
+}
+.slider-box{
+    padding: 15px 15px;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #f1f1f1;
+    border-radius: 15px;
+    margin: 20px 0;
+
+
+}
+.sliderBox-title {
+    width: 100%;
+    border-bottom: 1px solid #f1f1f1;
+    padding: 10px 5px 15px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.sliderBox-title span{
+    font-family: iransans-bold;
+    color: #212529;
+    font-weight: normal;
+    font-size: 16px;
+    width: 100%;
+
+}
+.sliderBox-title div {
+    width: 100px;
+}
+.sliderBox-title div a{
+    font-family: pelak-light;
+    color: #212529;
+    font-weight: normal;
+    font-size: 16px;
+    width: 100px;
+
+}
+.product-section{
+    padding: 10px 5px;
+
+    margin: 15px 5px;
+}
+.product-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.product-item .product-image img{
+    height: 100px;
+    width: 100%;
+    border-radius: 15px;
+}
+.product-item .product-name{
+    color: #212529;
+    font-size: 18px;
+    font-family: iransans-medium;
+}
+.product-item .product-category{
+    color: #6b6b6b;
+    font-size: 15px;
+    font-family: iransans-light;
+}
+.swiper-button-next,.swiper-button-prev{
+    color: #6b6b6b !important;
+    transition: 300ms ease all;
+}
+.swiper-button-next:hover,.swiper-button-prev:hover{
+    color: #0ea960 !important;
+    transition: 300ms ease all;
+}
+.categoryItem-section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 12px;
+    height: 50px;
+    margin: 5px 0;
+    background-color: #f9fafd;
+    border-radius: 12px;
+    border:1px solid #f1f1f1;
+    transition: 300ms ease all;
+}
+.categoryItem-section:hover{
+    transition: 300ms ease all;
+    background-color: #ffffff;
+
+}
+.categoryItem-name{
+    color: #212529;
+    font-family: iransans-light;
+    font-size: 16px;
+}
+.categoryItem-icon i {
+    color: #212529;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

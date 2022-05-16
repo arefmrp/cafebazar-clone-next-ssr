@@ -1,0 +1,33 @@
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #f9fafd !important;
+    direction: rtl;
+}
+.container-main{
+    width: 75%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.content-box{
+    padding: 120px 0 50px;
+}
+.layer{
+    display: none;
+    position: fixed;
+    min-height: 100%;
+    height: auto;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #212529;
+    opacity: 0.3;
+    z-index: 2;
+}
+.layer-active{
+    display: block;
+}
